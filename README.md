@@ -1,5 +1,11 @@
-# Dice Game - Android
-A dice game made in Android Studio.
+# 🎲 Scarne's Dice - Google Applied CS With Android Program
+![Android](https://i.imgur.com/4Vuj9b9.jpg)
 
-1) Two Player
-2) First player to score 100 wins!
+A simple dice game built during the Applied CS with Android Program by Google.
+
+## Concepts
+😃 UI Design <br>
+😃 Asynchronous Programming
+
+## Tech Stack
+❤️ Java
